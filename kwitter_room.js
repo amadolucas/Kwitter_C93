@@ -1,11 +1,11 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyDtnDgEywiL2rL-67QZ2VW2Qoj76-eYYjI",
-  authDomain: "deletetest-132c7.firebaseapp.com",
-  databaseURL: "https://deletetest-132c7-default-rtdb.firebaseio.com",
-  projectId: "deletetest-132c7",
-  storageBucket: "deletetest-132c7.appspot.com",
-  messagingSenderId: "251442731867",
-  appId: "1:251442731867:web:eb8dd0bdc2ec1bb2dd187e"
+  apiKey: "AIzaSyAmYk62g27IX1Gr9Xfc4H1Fy-NyvZ_jupY",
+  authDomain: "vamosconversar-3d390.firebaseapp.com",
+  databaseURL: "https://vamosconversar-3d390-default-rtdb.firebaseio.com",
+  projectId: "vamosconversar-3d390",
+  storageBucket: "vamosconversar-3d390.appspot.com",
+  messagingSenderId: "942339416041",
+  appId: "1:942339416041:web:d9119897928b18f1347578"
 };
 
 
